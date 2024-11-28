@@ -1,7 +1,9 @@
 # Ontario_EV_Data_Dashboard
  Tableau Dashboard of EV Ownership Data in Ontario and Ownership trends
 
-## The tableau dashboard can be viewed at https://public.tableau.com/app/profile/liam.kischuck/viz/OntarioEVOwnershipProject/Dashboard1?publish=yes
+## Tableau Dashboard Link
+
+The tableau dashboard can be viewed at https://public.tableau.com/app/profile/liam.kischuck/viz/OntarioEVOwnershipProject/Dashboard1?publish=yes
 
 ## Data Sources
 
